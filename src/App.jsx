@@ -189,23 +189,22 @@ function App() {
           <div>
             <div className='grid grid-cols-1 sm:grid-cols-3 md:grid-cols-3 gap-6'>
               <div className='card bg-gradient-to-r from-blue-300 to-gray-500 rounded-md shadow-md p-4'>
-                <h3 className='text-lg font-semibold mb-2'>Camiseta Manga Corta</h3>
+                <h3 className='text-lg font-semibold mb-2'>Pantalon Licra Niño</h3>
                 {/*<img src="/licras niño/tapa-corto.png" className='w-full h-48 object-cover rounded-lg mb-4' />*/}
                 <img src="/licras niño/tapa-corto.png" className='w-full h-48 object-contain mb-4' />
-                <p className='text-black'>Unidad: $30.000</p>
-                <span className='text-black'>Por Mayor: $15.000</span>
+                <p className='text-black'>Unidad: $20.000</p>
+                <span className='text-black'>Por Mayor: $12.000</span>
               </div>
               <div className='card bg-gradient-to-r from-blue-300 to-gray-500 rounded-md shadow-md p-4'>
-                <h3 className='text-lg font-semibold mb-2'>Camiseta Manga Larga</h3>
+                <h3 className='text-lg font-semibold mb-2'>Short Licra Niño</h3>
                 <img src="/licras niño/short.png" className='w-full h-48 object-contain mb-4' />
-                <p className='text-black'>Unidad: $35.000</p>
-                <span className='text-black'>Por mayor: $17.000</span>
+                <p className='text-black'>Unidad: $12.000</p>
+                <span className='text-black'>Por mayor: $7.000</span>
               </div>
               <div className='card bg-gradient-to-r from-blue-300 to-gray-500 rounded-md shadow-md p-4'>
-                <h3 className='text-lg font-semibold mb-2'>Short</h3>
+                <h3 className='text-lg font-semibold mb-2'>Buso Licra + Pantalon Largo</h3>
                 <img src="/licras niño/buso-largo.png" className='w-full h-48 object-contain mb-4' />
-                <p className='text-black'>Unidad: $25.000</p>
-                <span className='text-black'>Por mayor: $12.000</span>
+                <p className='text-black'>Unidad: $50.000</p>
               </div>
             </div>
           </div>        
