@@ -5,7 +5,7 @@ function App() {
     <>
     {/* Header */}
       <header className='fixed top-0 left-0 right-0 z-50 w-full bg-black shadow-md transition-all duration-300'>
-        <div className='container mx-auto px-4 sm:px-6 py-4 flex flex-col md:flex-row justify-between items-center gap-4'>
+        <div className='container mx-auto px-4 sm:px-6 py-4 flex flex-row justify-between items-center gap-4'>
           <div className='flex flex-col items-center md:flex-row md:space-x-5'>
             <img src="/logo-página.png" alt="Licras Deportivas H" className='h-20 w-20 mb-4 md:mb-0' />
             <div className='text-center md:text-left space-y-2'>
@@ -14,8 +14,8 @@ function App() {
             </div>
           </div>
 
-          <nav>
-            <ul className='flex space-x-8 mt-4 md:mt-0'>
+          <nav className='self-center'>
+            <ul className='flex space-x-4 md:mt-0'>
               <li><a href="#inicio" className='text-white hover:text-blue-300 transition-colors duration-300'>Inicio</a></li>
               <li><a href="#productos" className='text-white hover:text-blue-300 transition-colors duration-300'>Productos</a></li>
               <li><a href="#contacto" className='text-white hover:text-blue-300 transition-colors duration-300'>Contactanos</a></li>
