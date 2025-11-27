@@ -25,12 +25,12 @@ function App() {
       </header>
 
       {/* Espaciador para que el contenido no quede debajo del header */}
-      <main className='pt-15'>
+      <main className='pt-24'>
 
         {/* Sección de inicio */}
         <section id="inicio" className='min-h-screen pt-20 pb-24 px-6 flex flex-col justify-center items-center bg-gradient-to-b
-        from-white to-white text-center space-y-6'>
-          <h3 className='text-4xl md:text-4xl font-bold tracking-wide'>Bienvenidos a Licras Deportivas H</h3>
+        from-blue-50 to-white text-center space-y-6'>
+          <h3 className='text-5xl md:text-6xl font-extrabold text-gray-800'>Bienvenidos a Licras Deportivas H</h3>
           <p className='text-lg md:text-xl mb-8 max-w-2xl leading-relaxed'>Donde el movimiento se encuentra con el diseño.
             Explora una experiencia deportiva pensada para ti: prendas cómodas, funcionales y con estilo, creadas para acompañarte
             en cada entrenamiento, cada meta y cada logro.
