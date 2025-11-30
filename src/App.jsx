@@ -7,9 +7,9 @@ function App() {
       <header className='fixed top-0 left-0 right-0 z-50 w-full max-w-screen bg-black shadow-md transition-all duration-300'>
         <div className='container mx-auto px-4 sm:px-6 py-4 flex flex-row justify-between items-center gap-4'>
           <div className='flex flex-col md:flex-row justify-between items-center'>
-            <img src="/logo-página.png" alt="Licras Deportivas H" className='h-20 w-20 mb-4 md:mb-0' />
+            <img src="/logo-página.jpg" alt="Licras Deportivas H y S" className='h-20 w-20 mb-4 md:mb-0' />
             <div className='text-center md:text-left space-y-2'>
-              <h1 className='text-white text-3xl font-semibold'>Licras Deportivas H</h1>
+              <h1 className='text-white text-3xl font-semibold'>Licras Deportivas H y S</h1>
               <p className='text-white font-medium text-sm'>La mejor tienda de licras deportivas</p>
             </div>
           </div>
