@@ -30,11 +30,10 @@ function App() {
         {/* Sección de inicio */}
         <section id="inicio" className='min-h-screen pt-32 pb-24 px-6 flex flex-col justify-center items-center bg-gradient-to-b
         from-blue-50 to-white text-center space-y-6 scroll-mt-32'>
-          <h3 className='text-5xl md:text-6xl font-extrabold text-gray-800'>Bienvenidos a Licras Deportivas H</h3>
-          <p className='text-lg md:text-xl mb-8 max-w-2xl leading-relaxed'>Donde el movimiento se encuentra con el diseño.
-            Explora una experiencia deportiva pensada para ti: prendas cómodas, funcionales y con estilo, creadas para acompañarte
-            en cada entrenamiento, cada meta y cada logro.
-            Nuestra misión es ofrecerte licras deportivas de alta calidad que te inspiren a alcanzar tu máximo potencial.
+          <h3 className='text-5xl md:text-6xl font-extrabold text-gray-800'>Bienvenidos a Licras Deportivas H y S</h3>
+          <p className='text-lg md:text-xl mb-8 max-w-2xl leading-relaxed'>Fabricamos licras deportivas para dama y caballero en nailon 
+            de alta calidad, creadas para llevar el rendimiento al siguiente nivel. Cada prenda es el resultado de nuestra pasión por el detalle, 
+            la comodidad y el estilo moderno. Como fabricantes, garantizamos calidad auténtica desde el origen hasta cada movimiento.
           </p>
           <h4 className='text-xl md:text-2xl mb-6 font-semibold'>Colores disponibles</h4>
           <div className='mx-auto max-w-4xl'>
